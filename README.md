@@ -1,2 +1,2 @@
-# This repository for tips and tricks in JAVA
+# This repository for tips and tricks
 Updating everyday ....
